@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<integer name="Boardlength">3</integer><integer name="BoardHeight">3</integer></resources>
